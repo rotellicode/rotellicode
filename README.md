@@ -1,16 +1,23 @@
-## Hi there 👋
+markdown
 
-<!--
-**rotellicode/rotellicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Lucas Rotelli Raulino! 👋
 
-Here are some ideas to get you started:
+Journalist turned developer | Studying Systems Analysis and Development (ADS)  
+I’m passionate about coding, tech, and weaving stories through lines of code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **HTML**: Building the structure of the web.  
+- **CSS**: Styling it with flair.  
+- **JavaScript**: Adding a bit of magic (still learning!).  
+
+## What I’m Up To
+- Learning to code and debug my way through ADS.  
+- Exploring how tech can tell stories.  
+- Building small projects to grow my skills.
+
+## Find Me
+- Twitter: [@rotellicode](https://twitter.com/rotellicode)  
+- Portfolio: [Coming soon!](#)
+
+*"Coding is like writing a book: each line builds the story, and bugs are the plot twists."*
+
